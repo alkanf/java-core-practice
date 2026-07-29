@@ -1,6 +1,5 @@
 package arrays;
 
-import org.w3c.dom.ls.LSOutput;
 
 public class FindLargestElementArray {
     public int findLargestElement(int[] numbers) {
